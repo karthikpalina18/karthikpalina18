@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python documentations
 - 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...mail-karthikpalina18@gmail.com
-- 😄 Pronouns: ...karp
+- 😄 Pronouns: ...karthi
 - ⚡ Fun fact: ...N
 
 <!---
