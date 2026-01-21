@@ -53,19 +53,20 @@
 
 ## 🚀 Featured Projects
 
-🔹 **🏦 Hack2Bank – Fraud Detection Platform**  
-> AI-based system to detect fraudulent URLs and assist users with banking services.
+🔹 **🧠 Jnanasthan – Intelligent Learning Platform**  
+> An education-focused platform designed to provide structured learning, guidance, and knowledge-sharing with a user-friendly interface.
 
-🔹 **🛒 E-Commerce Recommendation System**  
-> Personalized product recommendation using user behavior and ML techniques.
+🔹 **🛠️ OnServices – Service Management Platform**  
+> A web-based application that connects users with services, focusing on usability, backend logic, and scalable architecture.
 
-🔹 **🎓 StudLab – Student Collaboration Platform**  
-> Group discussions, quizzes, Google Meet integration, career guidance.
+🔹 **✈️ Travel AI – Smart Travel Assistant**  
+> AI-powered travel recommendation system that assists users with trip planning, destinations, and intelligent suggestions.
 
-🔹 **🎮 Flask Games Platform**  
-> Web-based games like Ludo, Handy Cricket, Rock-Paper-Scissors.
+🔹 **📊 Machine Learning Projects Collection**  
+> A collection of ML projects including classification, prediction, and data analysis models built for academic and real-world use cases.
 
 ---
+
 
 ## 📊 GitHub Statistics
 
