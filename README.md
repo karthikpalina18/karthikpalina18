@@ -1,159 +1,99 @@
-<!-- ===================== HERO SECTION ===================== -->
-<div align="center">
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h3 align="center">Computer Science Engineering Student | Full-Stack & AI Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=950&lines=Hey+👋+I'm+Karthik;CS+Engineer+%7C+AI+%26+Full-Stack+Developer;Hackathon+Finalist+%7C+Problem+Solver;Building+Real-World+Systems" />
+<p align="center">
+  🚀 Hackathon Enthusiast • 🤖 AI & ML Explorer • 🌐 Web Developer
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=ff8800&style=for-the-badge" />
-
-</div>
-
----
-
-## 🧠 ABOUT ME (IN SHORT)
-
-<div align="center">
-
-🎓 **B.Tech CSE @ Parul University (CGPA: 8.91)**  
-🏆 **Top 5 – Vadodara Hackathon 5.0 (426 teams)**  
-🤖 Passionate about **AI, ML, Backend & System Design**  
-🌍 Preparing for **MS Abroad (France / Germany)**  
-🔥 Believer in *learning by building*  
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ TECH I USE (VISUAL)
+## 👨‍💻 About Me
 
-<div align="center">
-
-### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-
-### 🌐 Web & Backend  
-<img src="https://skillicons.dev/icons?i=html,css,flask,spring" />
-
-### 🧠 AI / Data  
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-### 🗄 Database & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github" />
-
-</div>
+- 🎓 **B.Tech in Computer Science Engineering** (3rd Year)
+- 💡 Interested in **AI, Machine Learning, Full-Stack Development**
+- 🏆 **Top 5 Team – Vadodara Hackathon 5.0**
+- 🌍 Planning **Master’s abroad (France / Germany)**
+- 🔭 Currently working on **large-scale real-world projects**
+- 📚 Strong in **DSA, Algorithms, AI concepts, Backend Systems**
 
 ---
 
-## 🚀 PROJECTS I’M PROUD OF
+## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td width="50%">
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🏦 Hack2Bank – Fraud Detection  
-🔹 Detects fraudulent URLs using ML  
-🔹 Banking info + chatbot support  
-🔹 Built for real-world finance use cases  
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-</td>
-<td width="50%">
+### 🧠 AI / Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge)
 
-### 🛒 E-Commerce Recommendation  
-🔹 Personalized ML-based suggestions  
-🔹 User behavior driven logic  
-🔹 Internship + academic project  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 StudLab – Student Platform  
-🔹 Group discussions & quizzes  
-🔹 Career guidance by domain  
-🔹 Secure Google Meet integration  
-
-</td>
-<td width="50%">
-
-### 🎮 Flask Games Platform  
-🔹 Ludo, Handy Cricket, RPS  
-🔹 Focus on logic, UI & backend  
-🔹 Multiplayer-ready architecture  
-
-</td>
-</tr>
-</table>
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📚 EXPERIENCE & EXTRAS
+## 🚀 Featured Projects
 
-<div align="center">
+🔹 **🏦 Hack2Bank – Fraud Detection Platform**  
+> AI-based system to detect fraudulent URLs and assist users with banking services.
 
-💼 **Data Science Intern – Campalin Innovations**  
-📄 Research-oriented (arXiv profile)  
-💡 Strong base in **DSA, AI, DBMS, OS**  
-🚀 Active in hackathons & project building  
+🔹 **🛒 E-Commerce Recommendation System**  
+> Personalized product recommendation using user behavior and ML techniques.
 
-</div>
+🔹 **🎓 StudLab – Student Collaboration Platform**  
+> Group discussions, quizzes, Google Meet integration, career guidance.
 
----
-
-## 📊 GITHUB STATS (LIVE)
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=karthikpalina18&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpalina18&layout=compact&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikpalina18&theme=tokyonight" />
-
-</div>
+🔹 **🎮 Flask Games Platform**  
+> Web-based games like Ludo, Handy Cricket, Rock-Paper-Scissors.
 
 ---
 
-## 🎯 CURRENT FOCUS
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikpalina18&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpalina18&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-🚀 Building **production-level AI systems**  
-📚 Mastering **DSA & system design**  
-📄 Research & publications  
-🌍 MS applications (France / Germany)  
-💼 High-impact internships  
-
-</div>
-
----
-
-## 🌐 FIND ME ONLINE
-
-<div align="center">
-
-<a href="https://github.com/karthikpalina18">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikpalina18&theme=tokyonight"/>
+</p>
 
 ---
 
-<div align="center">
+## 🎯 Current Goals
 
-### ⚡ *“Build → Break → Learn → Repeat”*  
-⭐ Star my repositories if you find them useful!
+- ✅ Build **5+ strong real-world projects**
+- 📄 Publish **research / technical papers**
+- 🌍 Secure **Master’s admission abroad**
+- 🧠 Strengthen **DSA & System Design**
+- 💼 Crack **top tech internships**
 
-</div>
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/karthikpalina18
+- 💼 LinkedIn: *(add your LinkedIn link here)*
+- ✉️ Email: *(optional)*
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile! Let’s build something amazing 🚀
+</p>
