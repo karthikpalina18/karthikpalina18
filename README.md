@@ -1,16 +1,20 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack & AI Developer</h3>
+<div align="center">
 
-<p align="center">
-  🚀 Hackathon Enthusiast • 🤖 AI & ML Explorer • 🌐 Web Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Karthik;Computer+Science+Engineering+Student;AI+%7C+ML+%7C+Full-Stack+Developer;Building+Real-World+Projects" />
+
+<br/>
+
+<p>
+  🚀 Hackathon Enthusiast &nbsp;•&nbsp; 🤖 AI & ML Explorer &nbsp;•&nbsp; 🌐 Web Developer
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+
+</div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
