@@ -1,63 +1,68 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Karthik;Computer+Science+Engineer;Full-Stack+%26+AI+Developer;Hackathon+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=950&lines=Hey+👋+I'm+Karthik;CS+Engineer+%7C+AI+%26+Full-Stack+Developer;Hackathon+Finalist+%7C+Problem+Solver;Building+Real-World+Systems" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=karthikpalina18&label=Profile%20Views&color=ff8800&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 ABOUT ME (IN SHORT)
 
 <div align="center">
 
-🎓 **B.Tech CSE (3rd Year)**  
-🚀 **Top 5 – Vadodara Hackathon 5.0**  
-🤖 **AI • Machine Learning • Backend Systems**  
-🌍 **Aiming for Master’s Abroad (France / Germany)**  
+🎓 **B.Tech CSE @ Parul University (CGPA: 8.91)**  
+🏆 **Top 5 – Vadodara Hackathon 5.0 (426 teams)**  
+🤖 Passionate about **AI, ML, Backend & System Design**  
+🌍 Preparing for **MS Abroad (France / Germany)**  
+🔥 Believer in *learning by building*  
 
 </div>
 
 ---
 
-## 🛠 TECH STACK
+## 🛠️ TECH I USE (VISUAL)
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 
-### 🌐 Web
+### 🌐 Web & Backend  
 <img src="https://skillicons.dev/icons?i=html,css,flask,spring" />
 
-### 🧠 AI & Data
+### 🧠 AI / Data  
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### 🗄 Databases & Tools
+### 🗄 Database & Tools  
 <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github" />
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECTS I’M PROUD OF
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🏦 Hack2Bank  
-AI-powered fraud detection & banking assistant  
+### 🏦 Hack2Bank – Fraud Detection  
+🔹 Detects fraudulent URLs using ML  
+🔹 Banking info + chatbot support  
+🔹 Built for real-world finance use cases  
 
 </td>
 <td width="50%">
 
 ### 🛒 E-Commerce Recommendation  
-Personalized ML-based recommendation system  
+🔹 Personalized ML-based suggestions  
+🔹 User behavior driven logic  
+🔹 Internship + academic project  
 
 </td>
 </tr>
@@ -65,14 +70,18 @@ Personalized ML-based recommendation system
 <tr>
 <td width="50%">
 
-### 🎓 StudLab  
-Student collaboration & learning platform  
+### 🎓 StudLab – Student Platform  
+🔹 Group discussions & quizzes  
+🔹 Career guidance by domain  
+🔹 Secure Google Meet integration  
 
 </td>
 <td width="50%">
 
-### 🎮 Flask Games  
-Web-based multiplayer & casual games  
+### 🎮 Flask Games Platform  
+🔹 Ludo, Handy Cricket, RPS  
+🔹 Focus on logic, UI & backend  
+🔹 Multiplayer-ready architecture  
 
 </td>
 </tr>
@@ -80,16 +89,29 @@ Web-based multiplayer & casual games
 
 ---
 
-## 📊 GITHUB STATS
+## 📚 EXPERIENCE & EXTRAS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=karthikpalina18&show_icons=true&theme=react" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpalina18&layout=compact&theme=react" />
+💼 **Data Science Intern – Campalin Innovations**  
+📄 Research-oriented (arXiv profile)  
+💡 Strong base in **DSA, AI, DBMS, OS**  
+🚀 Active in hackathons & project building  
+
+</div>
+
+---
+
+## 📊 GITHUB STATS (LIVE)
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=karthikpalina18&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpalina18&layout=compact&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikpalina18&theme=react" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikpalina18&theme=tokyonight" />
 
 </div>
 
@@ -99,26 +121,30 @@ Web-based multiplayer & casual games
 
 <div align="center">
 
-✅ Advanced AI & ML projects  
-✅ Large-scale backend systems  
-✅ Research & publications  
-✅ Master’s preparation  
-✅ Competitive programming  
+🚀 Building **production-level AI systems**  
+📚 Mastering **DSA & system design**  
+📄 Research & publications  
+🌍 MS applications (France / Germany)  
+💼 High-impact internships  
 
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 FIND ME ONLINE
 
 <div align="center">
 
 <a href="https://github.com/karthikpalina18">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
@@ -127,6 +153,7 @@ Web-based multiplayer & casual games
 
 <div align="center">
 
-### 💙 *“Code. Learn. Build. Repeat.”*
+### ⚡ *“Build → Break → Learn → Repeat”*  
+⭐ Star my repositories if you find them useful!
 
 </div>
