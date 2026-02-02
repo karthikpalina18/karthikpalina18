@@ -94,8 +94,8 @@
 ## 📫 Connect With Me
 
 - 🌐 GitHub: https://github.com/karthikpalina18
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- ✉️ Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/palina-karthik-5396b8266
+- ✉️ Email: karthikpalina18@gmail.com
 
 ---
 
