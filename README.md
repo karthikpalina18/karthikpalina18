@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science Engineering** (3rd Year)
+- 🎓 **M.SC in Software Engineering** 
 - 💡 Interested in **AI, Machine Learning, Full-Stack Development**
 - 🏆 **Top 5 Team – Vadodara Hackathon 5.0**
-- 🌍 Planning **Master’s abroad (France / Germany)**
+- 🌍 Doing Masters at ESIGELEC school of Engineering, France**
 - 🔭 Currently working on **large-scale real-world projects**
 - 📚 Strong in **DSA, Algorithms, AI concepts, Backend Systems**
 
